@@ -381,6 +381,7 @@ input[type="checkbox"].visually-hidden {
   background-color: #ffffff;
   padding: 40px;
   z-index: 1000;
+  vertical-align: center;
 }
 
 .close {
