@@ -424,7 +424,6 @@ input[type="checkbox"].visually-hidden {
   line-height: 1.2;
   align-items: Center;
   text-align: center;
-  letter-spacing: 3%;
   color: #212121;
 }
 
@@ -483,12 +482,10 @@ input[type="checkbox"].visually-hidden {
 .modal-input::placeholder,
 .modal-textarea::placeholder {
   font-family: Roboto;
-  font-style: Regular;
   font-size: 12px;
   line-height: 1.17;
   text-align: Left;
   vertical-align: Top;
-  letter-spacing: 1%;
   color: rgba(117, 117, 117, 0.5);
 }
 
